@@ -36,3 +36,10 @@ This project demonstrates how to build and evaluate machine learning models to p
 📈 Results
 Trained and evaluated Gradient Boosting and other classifiers
 Achieved high accuracy with feature importance visualization
+
+![Image](https://github.com/user-attachments/assets/1b6f8eeb-acd7-4e4d-b99f-cb2ebe995633)
+![Image](https://github.com/user-attachments/assets/8e68df3a-c033-443f-9cf5-06db9377589a)
+![Image](https://github.com/user-attachments/assets/cb660a44-2abe-4b1d-b789-8e04b4ff5fbf)
+![Image](https://github.com/user-attachments/assets/5780cf08-b5d6-4483-8ef3-f6bc727f12d6)
+![Image](https://github.com/user-attachments/assets/a853d82e-8486-42d3-bd26-16518b3fe9c0)
+![Image](https://github.com/user-attachments/assets/72397d2c-d27d-4fc8-be65-f2d6890123a0)
